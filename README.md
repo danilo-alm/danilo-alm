@@ -27,7 +27,7 @@
   [![My Skills](https://skillicons.dev/icons?i=linux,git,docker,github,vscode,idea)](https://skillicons.dev)
 
 - **Personal interests:**  
-  [![My Skills](https://skillicons.dev/icons?i=linux,arch,obsidian,nvim,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,arch,obsidian,neovim,cpp)](https://skillicons.dev)
 
 ## 🎨 Creative Projects
 
