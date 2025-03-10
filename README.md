@@ -35,7 +35,7 @@ Here are some of the projects I had the most fun developing:
 
 1. [📅 Room Booking](https://github.com/danilo-alm/room-booking) - An easy API for room booking (Java, Spring, MariaDB)
 2. [🧠 Neural Network (MNIST)](https://github.com/danilo-alm/nn-mnist) - A simple study on Neural Networks (Python, Numpy)
-3. [🖥️ Monitor Brightness](https://github.com/danilo-alm/monitor-brightness) - A helper to control brightness on X11 on a software level
+3. [🖥️ Monitor Brightness](https://github.com/danilo-alm/monitor-brightness) - A helper to control brightness on X11 on a software level (C)
 
 ## 📊 GitHub Statistics
 
