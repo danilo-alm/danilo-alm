@@ -1,16 +1,60 @@
-## Hi there 👋
 
-<!--
-**danilo-alm/danilo-alm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
-Here are some ideas to get you started:
+# 🚀 Hello, I'm Danilo Almeida! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I am a Computer Science student at the Federal University of Alagoas (UFAL). I have great experience with Python and Java, focusing on back-end development and data science. Currently, I am a research fellow at the Applied Public Administration Laboratory (LAPA), where I work as a Data Analyst.
+</p>
+
+## 🌟 Technological Skills
+
+💻 Technical Skills & Interests:
+
+- **Programming Languages:**  
+  [![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+
+- **Frameworks and Libraries:**  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express)](https://skillicons.dev)
+
+- **Data and Analysis:**  
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)  
+  - Knowledge in data analysis and visualization with `pandas`, `matplotlib` and `seaborn`.
+
+- **Tools:**  
+  [![My Skills](https://skillicons.dev/icons?i=linux,git,docker,github,vscode,idea)](https://skillicons.dev)
+
+- **Personal interests:**  
+  [![My Skills](https://skillicons.dev/icons?i=linux,arch,obsidian,nvim,cpp)](https://skillicons.dev)
+
+## 🎨 Creative Projects
+
+Here are some of the projects I had the most fun developing:
+
+1. [📅 Room Booking](https://github.com/danilo-alm/room-booking) - An easy API for room booking (Java, Spring, MariaDB)
+2. [🧠 Neural Network (MNIST)](https://github.com/danilo-alm/nn-mnist) - A simple study on Neural Networks (Python, Numpy)
+3. [🖥️ Monitor Brightness](https://github.com/danilo-alm/monitor-brightness) - A helper to control brightness on X11 on a software level
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-alm&theme=radical&count_private=true&langs_count=8" alt="Top Languages"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danilo-alm&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilo-alm&theme=radical&hide_border=true" alt="GitHub Streak"><br/>
+</p>
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/danilo-alm" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:cs.daniloalmeida@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/itsevertonreis@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/danilo-a-2485841b9/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
