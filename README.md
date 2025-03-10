@@ -52,7 +52,7 @@ Here are some of the projects I had the most fun developing:
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:cs.daniloalmeida@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/itsevertonreis@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail" />
+    <img src="https://img.shields.io/badge/cs.daniloalmeida@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/danilo-a-2485841b9/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
