@@ -26,9 +26,6 @@
 - **Tools:**  
   [![My Skills](https://skillicons.dev/icons?i=linux,git,docker,github,vscode,idea)](https://skillicons.dev)
 
-- **Personal interests:**  
-  [![My Skills](https://skillicons.dev/icons?i=linux,arch,obsidian,neovim,cpp)](https://skillicons.dev)
-
 ## 🎨 Creative Projects
 
 Here are some of the projects I had the most fun developing:
