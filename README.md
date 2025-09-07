@@ -14,7 +14,7 @@
 💻 Technical Skills & Interests:
 
 - **Programming Languages:**  
-  [![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript)](https://skillicons.dev)
 
 - **Frameworks and Libraries:**  
   [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express,nest)](https://skillicons.dev)
@@ -31,8 +31,8 @@
 Here are some of the projects I had the most fun developing:
 
 1. [✏️ Personal Blog](https://github.com/danilo-alm/blog) - A personal blog where I intend to write stuff about programming!
-2. [🧠 Neural Network (MNIST)](https://github.com/danilo-alm/nn-mnist) - A simple study on Neural Networks (Python, Numpy)
-3. [🎵 Tomp3](https://github.com/danilo-alm/tomp3) - A batch audio converter to MP3 using ffmpeg with a TUI
+2. [🎵 Tomp3](https://github.com/danilo-alm/tomp3) - A batch audio converter to MP3 using ffmpeg with a TUI
+3. [🧠 Neural Network (MNIST)](https://github.com/danilo-alm/nn-mnist) - A simple study on Neural Networks (Python, Numpy)
 
 ## 📊 GitHub Statistics
 
