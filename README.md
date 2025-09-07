@@ -17,7 +17,7 @@
   [![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
 
 - **Frameworks and Libraries:**  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express,nest)](https://skillicons.dev)
 
 - **Data and Analysis:**  
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)  
