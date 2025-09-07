@@ -6,7 +6,7 @@
 # 🚀 Hello, I'm Danilo Almeida! 👋
 
 <p align="center">
-  I am a Computer Science student at the Federal University of Alagoas (UFAL). I have great experience with Python and Java, focusing on back-end development and data science. Currently, I am a research fellow at the Applied Public Administration Laboratory (LAPA), where I work as a Data Analyst.
+  I am a Computer Science student at the Federal University of Alagoas (UFAL). I have great experience with Python, Typescript and Java, focusing on back-end development and data science. Currently, I work at the Information Technology Management (GTI) of UFAL, in the Systems Division, as a backend developer.
 </p>
 
 ## 🌟 Technological Skills
