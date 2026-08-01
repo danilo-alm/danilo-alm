@@ -1,57 +1,83 @@
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+
+# migration.log
+
+<sub>a running log of systems moved from where they were to where they should be</sub>
+
 </div>
 
-# 🚀 Hello, I'm Danilo Almeida! 👋
+<br>
 
-<p align="center">
-  I am a Computer Science student at the Federal University of Alagoas (UFAL). I have great experience with Python, Typescript and Java, focusing on back-end development and data science. Currently, I work at the Information Technology Management (GTI) of UFAL, in the Systems Division, as a backend developer.
-</p>
+```diff
+- legacy database, unstructured, isolated
++ modern schema, normalized, integrated
+```
 
-## 🌟 Technological Skills
+I'm Danilo — a Computer Science student (UFAL) who keeps ending up on the
+same kind of problem: **data that outgrew the system it's trapped in.**
+Spreadsheets that became databases. Databases that became the wrong
+database. Institutional knowledge scattered across formats nobody wants
+to touch. I move it somewhere better, and I make sure nothing breaks on
+the way there.
 
-💻 Technical Skills & Interests:
+<br>
 
-- **Programming Languages:**  
-  [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript)](https://skillicons.dev)
+## `status --current`
 
-- **Frameworks and Libraries:**  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express,nest)](https://skillicons.dev)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Data and Analysis:**  
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)  
-  - Knowledge in data analysis and visualization with `pandas`, `matplotlib` and `seaborn`.
+**SIPROT / CNART @ NEES**
+Legacy MySQL Server → PostgreSQL, full schema redesign, for a
+federal cultural heritage system (IPHAN) integrated with **gov.br**.
 
-- **Tools:**  
-  [![My Skills](https://skillicons.dev/icons?i=linux,git,docker,github,vscode,idea)](https://skillicons.dev)
+`MySQL` `PostgreSQL` `Python` `Liquibase`
 
-## 🎨 Creative Projects
+</td>
+<td width="50%" valign="top">
 
-Here are some of the projects I had the most fun developing:
+**Library Repository @ UFAL**
+University thesis/dissertation archive (Odoo-based) → **DSpace**,
+the international open repository standard.
 
-1. [✏️ Personal Blog](https://github.com/danilo-alm/blog) - A personal blog where I intend to write stuff about programming!
-2. [🎵 Tomp3](https://github.com/danilo-alm/tomp3) - A batch audio converter to MP3 using ffmpeg with a TUI
-3. [🧠 Neural Network (MNIST)](https://github.com/danilo-alm/nn-mnist) - A simple study on Neural Networks (Python, Numpy)
+`Odoo` `DSpace` `Schema Mapping`
+[`repo →`](https://github.com/NTI-UFAL-Arapiraca/dspace-migration)
 
-## 📊 GitHub Statistics
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-alm&theme=radical&count_private=true&langs_count=8" alt="Top Languages"><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=danilo-alm&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilo-alm&theme=radical&hide_border=true" alt="GitHub Streak"><br/>
-</p>
+<br>
 
-## 🌐 Let's Connect!
+## `stack --primary`
 
-<p align="center">
-  <a href="https://github.com/danilo-alm" alt="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:cs.daniloalmeida@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/cs.daniloalmeida@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/danilo-a-2485841b9/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br>
+
+## `log --oneline`
+
+```
+a1b2c3d  migrate(cnart,siprot): MySQL Server, Excel -> PostgreSQL, schema redesign
+e4f5g6h  migrate(library): Odoo -> DSpace, thesis/dissertation archive
+i7j8k9l  analyze(rais): raw labor market spreadsheets -> automated pandas pipeline
+m0n1o2p  init: Computer Science, Federal University of Alagoas
+```
+
+<br>
+
+<div align="center">
+
+<sub>
+if the data works but nobody trusts it, it isn't done yet.
+</sub>
+
+</div>
