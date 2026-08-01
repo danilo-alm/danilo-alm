@@ -29,7 +29,7 @@ the way there.
 <td width="50%" valign="top">
 
 **SIPROT / CNART @ NEES**
-Legacy MySQL Server → PostgreSQL, full schema redesign, for a
+Legacy MySQL Server, Excel → PostgreSQL, full schema redesign, for a
 federal cultural heritage system (IPHAN) integrated with **gov.br**.
 
 `MySQL` `PostgreSQL` `Python` `Liquibase`
